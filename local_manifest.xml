@@ -2,9 +2,9 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/asus/X00TD" name="dhimanparas20/device_asus_X00TD.git" remote="github" revision="11" />
- <project path="device/asus/sdm660-common" name="dhimanparas20/device_asus_sdm660-common.git" remote="github" revision="11" />
- <project path="vendor/asus" name="dhimanparas20/vendor_asus.git" remote="github" revision="11" />
- <project path="kernel/asus/sdm660" name="asus-sdm660-devs/android_kernel_asus_sdm660.git" remote="github" revision="lineage-18.1" />
+ <project path="device/realme/spartan" name="dhimanparas20/android_device_realme_spartan.git" remote="github" revision="13" />
+ <!-- <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-18.1" /> -->
+ <project path="vendor/realme/spartan" name="RealmeGTNeo3T-Devs/proprietary_vendor_realme_spartan.git" remote="github" revision="13" />
+ <project path="kernel/realme/sm8250" name=" RealmeGTNeo3T-Devs/android_kernel_realme_sm8250.git" remote="github" revision="13" />
  
 </manifest>
